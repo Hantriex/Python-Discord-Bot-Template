@@ -1,15 +1,5 @@
 # Python Discord Bot Template
 
-<p align="center">
-  <a href="//discord.gg/HzJ3Gfr"><img src="https://img.shields.io/discord/739934735387721768?logo=discord"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/releases"><img src="https://img.shields.io/github/v/release/kkrypt0nn/Python-Discord-Bot-Template"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/commits/main"><img src="https://img.shields.io/github/last-commit/kkrypt0nn/Python-Discord-Bot-Template"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/releases"><img src="https://img.shields.io/github/downloads/kkrypt0nn/Python-Discord-Bot-Template/total"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/kkrypt0nn/Python-Discord-Bot-Template"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template"><img src="https://img.shields.io/github/languages/code-size/kkrypt0nn/Python-Discord-Bot-Template"></a>
-  <a href="//github.com/kkrypt0nn/Python-Discord-Bot-Template/issues"><img src="https://img.shields.io/github/issues-raw/kkrypt0nn/Python-Discord-Bot-Template"></a>
-</p>
-
 This repository is a template that everyone can use for the start of their discord bot.
 
 When I first started creating my discord bot it took me a while to get everything setup and working with cogs and more.
@@ -73,9 +63,6 @@ Here is an explanation of what everything is:
 | ----------------------| ----------------------------------------------------------------------|
 | YOUR_BOT_PREFIX_HERE  | The prefix(es) of your bot                                            |
 | YOUR_BOT_TOKEN_HERE   | The token of your bot                                                 |
-| APPLICATION_ID        | The application ID of your bot                                        |
-| OWNERS                | The user ID of all the bot owners                                     |
-| BLACKLIST             | The user ID of all the users who can't use the bot                    |
 
 ## How to start
 
